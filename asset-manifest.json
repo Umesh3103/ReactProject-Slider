@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactProject-Slider/static/css/main.d3cf1c16.chunk.css",
+    "main.js": "/ReactProject-Slider/static/js/main.74480316.chunk.js",
+    "main.js.map": "/ReactProject-Slider/static/js/main.74480316.chunk.js.map",
+    "runtime-main.js": "/ReactProject-Slider/static/js/runtime-main.bc872d65.js",
+    "runtime-main.js.map": "/ReactProject-Slider/static/js/runtime-main.bc872d65.js.map",
+    "static/js/2.bc63237c.chunk.js": "/ReactProject-Slider/static/js/2.bc63237c.chunk.js",
+    "static/js/2.bc63237c.chunk.js.map": "/ReactProject-Slider/static/js/2.bc63237c.chunk.js.map",
+    "static/js/3.cb343e7a.chunk.js": "/ReactProject-Slider/static/js/3.cb343e7a.chunk.js",
+    "static/js/3.cb343e7a.chunk.js.map": "/ReactProject-Slider/static/js/3.cb343e7a.chunk.js.map",
+    "index.html": "/ReactProject-Slider/index.html",
+    "static/css/main.d3cf1c16.chunk.css.map": "/ReactProject-Slider/static/css/main.d3cf1c16.chunk.css.map",
+    "static/js/2.bc63237c.chunk.js.LICENSE.txt": "/ReactProject-Slider/static/js/2.bc63237c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc872d65.js",
+    "static/js/2.bc63237c.chunk.js",
+    "static/css/main.d3cf1c16.chunk.css",
+    "static/js/main.74480316.chunk.js"
+  ]
+}
